@@ -63,7 +63,7 @@ Algorithms implemented:
 - **Algorithm Comparison Chart:**  
 	![Comparison Chart](outputs/Exp1_Small_Grid_chart.png)
 - **Dhaka Map Visualization:**  
-	![Dhaka Map](outputs/dhaka_map.png)
+	![Dhaka Map](outputs/map.png)
 
 ## Report Summary
 
